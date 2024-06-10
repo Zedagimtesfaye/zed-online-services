@@ -1,0 +1,48 @@
+.navigation_bar a{
+        font-size:25px;
+     padding:61px;
+color:black;
+text-decoration:none;
+}
+.service{
+display:flex;
+flex-wrap:wrap;
+}
+article{
+width:49.7%;
+border-style:solid;
+border-left:1px;
+border-color:#eeeeee;
+}
+article img{
+margin-left:auto;
+margin-right:auto;
+display:block;
+}
+h2 a{
+color:#cc0052;
+text-decoration:none;
+}
+p{
+margin-left:10px;
+margin-right:10px;
+}
+a:hover{
+color:aqua;
+}
+articlehover img{
+transition:0.1s all ease-in-out;
+transform:scale(1.25);
+}
+ul{
+list-style:none;
+}
+ul a{
+color-black;
+text-decoration:none;
+font-size:20px;
+}
+.navigation_bar
+position:fixed;
+top:0px;
+background-color:saddlebrown;
